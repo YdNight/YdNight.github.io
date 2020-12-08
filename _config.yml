@@ -13,8 +13,11 @@ title: Night阿迪                          # the main title
 tagline: Just be brave.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-python重度爱好者，MATLAB仿真狂魔，二次元分裂症
-一起打球请加微信cccccccyd（忘记几个c了，错了就下次吧^^）
+feed
+  A minimal, portfolio, sidebar,
+  bootstrap Jekyll theme with responsive web design
+  and focuses on text presentation.
+
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'protocol://domain'

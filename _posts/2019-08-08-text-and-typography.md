@@ -1,9 +1,9 @@
 ---
-title: Text and Typography
-author: Cotes Chung
-date: 2019-08-08 11:33:00 +0800
-categories: [Blogging, Demo]
-tags: [typography]
+title: 写在前面
+author: Night Yd
+date: 2020-12-09 13:15:00 +0800
+categories: [Blogging,StartDay]
+tags: [没什么，只是有些想说的话]
 math: true
 image: /assets/img/sample/devices-mockup.png
 ---

@@ -12,6 +12,6 @@ image: /assets/img/sample/devices-mockup.png
 懒惰，所以一直没弄，就这样吧。
 
 
-## do not go gentle into that good night.
+## Do not go gentle into that good night.
 
 
